@@ -129,7 +129,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-	  uint16_t pot = adc_values[1];
+	  uint16_t pot = adc_values[1]; // QUESTA è LA DICITURA PER UTILIZZARE L'ADC IN DMA E IL VALORE [1] INDICA IL POTENZIOMETRO
 
 	      int diff = (int)pot - (int)old_pot;
 	      if (diff < 0)
