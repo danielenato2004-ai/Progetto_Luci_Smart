@@ -25,21 +25,7 @@ Questo repository contiene il firmware e la configurazione per un microcontrollo
 └── .gitignore            # File da escludere da Git
 ```
 
-## 🚀 Come Iniziare
 
-1. **Clona il repository**
-   ```bash
-   git clone https://github.com/danielenato2004-ai/Progetto_Luci_Smart.git
-   cd Progetto_Luci_Smart
-   ```
-
-2. **Apri il progetto in STM32CubeMX**
-   - Apri `STM32_Project/STM32_Project.ioc`
-   - Genera il codice se necessario
-
-3. **Compila in STM32CubeIDE**
-   - Apri il progetto in STM32CubeIDE
-   - Build e Debug
 
 ## 📚 Documentazione
 
