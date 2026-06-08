@@ -4,7 +4,7 @@ Progetto di elettronica basato su **STM32** per la gestione e risparmio intellig
 
 ## 📋 Descrizione
 
-Questo repository contiene il firmware e la configurazione per un microcontrollore STM32 dedicato al controllo di luci smart. È inoltre presente il datasheeet dell'LDR utilizzato.
+Questo repository contiene il firmware e la configurazione per un microcontrollore STM32 dedicato al controllo di luci smart. Sono inoltre presenti il datasheeet dell'LDR utilizzato e il flow chart del progetto finale.
 
 
 ## 📁 Struttura del Progetto
@@ -25,6 +25,4 @@ Questo repository contiene il firmware e la configurazione per un microcontrollo
 ## 📚 Documentazione
 
 Vedi la cartella `Documentation/` per:
-- **CODICI STM32 IDE** - Contenuti nelle cartelle di riferimento
-- **ARCHITECTURE.md** - Architettura del progetto
-- **README.md** - Informazioni riguardo ai file
+- **CODICI STM32 IDE** - Contenuti nelle cartelle di riferimento con **README.md** per informazioni riguardo ai file
