@@ -1,6 +1,6 @@
 # Progetto Luci Smart
 
-Progetto di elettronica basato su **STM32** per la gestione e risparmio intelligente di sistemi di illuminazione.
+Progetto basato su **STM32** per la gestione e risparmio intelligente di sistemi di illuminazione realizzato dal gruppo 2: Nato Daniele, Gangemi Igor e Brancati Fabrizio.
 
 ## 📋 Descrizione
 
